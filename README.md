@@ -1,4 +1,6 @@
 # hmm-bandits
-code for L2TS and L2UCB algorithms in "Linearizing Contextual Bandits with Latent State Dynamics"
+Code for "Linearizing Contextual Bandits with Latent State Dynamics."
 
-[to be uploaded soon; available upon request; email: enelson@ibm.com]
+The bandit task/environment can be selected or modified in main.py
+The L2TS and L2UCB algorithms are implemented in algorithm.py
+(The linear TS baseline which uses the raw context data is implemented in linear_bandit.py)
